@@ -5,3 +5,7 @@ Write an OpenSCAD script for a modular, 3D-printable bipedal robot. Define modul
 ```
 
 # OpenSCAD
+
+# CadQuery, view with CQ editor or Python Notebook
+
+# build123d

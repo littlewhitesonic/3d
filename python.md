@@ -31,4 +31,14 @@ wget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh
 bash Anaconda3-latest-Linux-x86_64.sh
 ```
 
+`source ~/.bashrc`
+
+`conda --version`
+`conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main`
+`conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r`
+`conda create -n humanoid python=3.10 -y`
+`conda activate humanoid`
+
+
+
 Miniconda is usually the better choice — you install only what you need.
